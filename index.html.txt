@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Activity Box</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f7f2;
+            color: #333333;
+            margin: 0;
+            padding: 40px;
+        }
+
+        header {
+            text-align: center;
+            padding: 30px;
+            background-color: white;
+            border-radius: 15px;
+        }
+
+        .logo {
+            font-size: 70px;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            color: #2e7d32;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #388e3c;
+            margin-top: 30px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        ul {
+            background-color: white;
+            padding: 20px 40px;
+            border-radius: 10px;
+        }
+
+        li {
+            margin-bottom: 10px;
+            font-size: 17px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <div class="logo">🎁</div>
+        <h1>Activity Box</h1>
+    </header>
+
+    <p>Activity Box piedāvā fiziskus komplektus ar interesantām aktivitātēm jauniešiem pēc skolas un brīvajā laikā.</p>
+
+    <h2>Ko mēs piedāvājam</h2>
+
+    <ul>
+        <li>Gatavus aktivitāšu komplektus ar visu nepieciešamo</li>
+        <li>Interesantas aktivitātes bez ilgtermiņa saistībām</li>
+        <li>Iespēju pavadīt mazāk laika pie ekrāniem</li>
+    </ul>
+
+    <h2>Kontakti</h2>
+
+    <p>E-pasts: info@activitybox.lv</p>
+
+</body>
+</html>
